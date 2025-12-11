@@ -1,5 +1,5 @@
 # 💫 About Me:
-##Hi, I’m Joachem Trinidad👋<br><br>
+### Hi, I’m Joachem Trinidad👋<br><br>
 
 Aspiring developer with a Bachelor of Science in Information Technology. I’ve worked on both front-end and back-end projects for web and mobile through internships and capstone work. My main stack is JavaScript and its frameworks, but I’m always open to learning new technologies. I enjoy solving problems, working with teams, and building things that make an impact. Excited to grow and contribute to meaningful projects.<br>
 
@@ -31,7 +31,7 @@ Right now I’m focused on improving my backend and frontend skills while buildi
 <br>
 
 # 💻 Tech Stack:
-## 🚀 Programming Languages
+### 🚀 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
@@ -41,7 +41,7 @@ Right now I’m focused on improving my backend and frontend skills while buildi
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge\&logo=kotlin\&logoColor=white)
-## 🌐 Web & Mobile Development
+### 🌐 Web & Mobile Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS / SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge\&logo=SASS\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
