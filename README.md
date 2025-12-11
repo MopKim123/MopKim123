@@ -23,7 +23,8 @@ Right now I’m focused on improving my backend and frontend skills while buildi
 ### 📫 Contact me
 - Email: joachemtrinidad@gmail.com
 - GitHub: github.com/MopKim123
-
+<br>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joachem-trinidad-b78a41365/)
@@ -92,6 +93,8 @@ Right now I’m focused on improving my backend and frontend skills while buildi
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge\&logo=unity\&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge\&logo=xamarin\&logoColor=white)
  
+<br>
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MopKim123&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
