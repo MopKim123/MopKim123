@@ -26,8 +26,7 @@ Right now I’m focused on improving my backend and frontend skills while buildi
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Joachem Trinidad](https://www.linkedin.com/in/joachem-trinidad-b78a41365/)) 
-(
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joachem-trinidad-b78a41365/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joakimtrinidad234@gmail.com) 
 
 # 💻 Tech Stack:
