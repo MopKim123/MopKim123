@@ -15,7 +15,8 @@ Right now I’m focused on improving my backend and frontend skills while buildi
 - Better project structure and architecture
 - Database design and migrations
 
-### 💡 Interests<br>Backend development
+### 💡 Interests
+- Backend development
 - UI/UX for small apps
 - Debugging and improving existing code
 
