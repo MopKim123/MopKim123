@@ -5,11 +5,22 @@ Aspiring developer with a Bachelor of Science in Information Technology. I’ve 
 
 Right now I’m focused on improving my backend and frontend skills while building apps using Spring Boot, Kotlin, Vue, and TypeScript.<br><br>
 
-🚀 What I do<br>
+### 🚀 What I do 
 - Build simple APIs and dashboards
 - Experiment with new tools and frameworks
-- Work on weekly mini-projects to sharpen my skills<br>
-🌱 Currently learning<br>Writing cleaner, idiomatic code<br>Better project structure and architecture<br>Database design and migrations<br>💡 Interests<br>Backend development<br>UI/UX for small apps<br>Debugging and improving existing code<br>📫 Contact me<br>Email: joachemtrinidad@gmail.com<br>GitHub: github.com/MopKim123
+- Work on weekly mini-projects to sharpen my skills
+  
+### 🌱 Currently learning
+- Writing cleaner, idiomatic code
+- Better project structure and architecture
+- Database design and migrations
+
+### 💡 Interests<br>Backend development
+- UI/UX for small apps
+- Debugging and improving existing code
+
+### 📫 Contact me
+- Email: joachemtrinidad@gmail.com<br>GitHub: github.com/MopKim123
 
 
 ## 🌐 Socials:
